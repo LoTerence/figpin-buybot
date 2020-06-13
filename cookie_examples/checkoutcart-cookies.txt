@@ -1,0 +1,26 @@
+"Set-Cookie": 
+
+__cfduid=d1cd13f041c31a83861cdf1e6a29b05c51590099263; 
+expires=Sat, 20-Jun-20 22:14:23 GMT; 
+path=/; 
+domain=.figpin.com; 
+HttpOnly; 
+SameSite=Lax, 
+
+_landing_page=%2F5443715170%2Fcheckouts%2F0be1ec53ca320ad7b566d57b1fcc2f0a%3F_ga%3D2.21982203.1528784746.1589770788-1190489689.1589770788; 
+Expires=Thu, 
+04-Jun-20 22:14:23 GMT; 
+Path=/; 
+HttpOnly, 
+
+_shopify_y=751de2bb-3798-4963-8067-230cdb87daad; 
+Expires=Fri, 21-May-21 22:14:23 GMT; 
+Path=/, _orig_referrer=https%3A%2F%2Ffigpin.com%2Fcart; 
+Expires=Thu, 04-Jun-20 22:14:23 GMT; 
+Path=/; 
+HttpOnly, 
+
+_y=751de2bb-3798-4963-8067-230cdb87daad; 
+Expires=Fri, 
+21-May-21 22:14:23 GMT; 
+Path=/",

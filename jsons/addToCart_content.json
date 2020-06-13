@@ -1,0 +1,5 @@
+{
+  "status": 422,
+  "message": "Cart Error",
+  "description": "The product 'Katsuki Bakugo (#329)' is already sold out."
+}

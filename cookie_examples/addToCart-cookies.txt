@@ -1,0 +1,35 @@
+"Set-Cookie":
+
+_shopify_y=751de2bb-3798-4963-8067-230cdb87daad; 
+path=/; 
+expires=Sun, 22 May 2022 09:21:43 GMT, 
+
+cart_currency=USD; 
+path=/; 
+expires=Thu, 04 Jun 2020 21:43:19 GMT, 
+
+cart=8f527a30ca9db7c0fbe9fb03c4816533; 
+path=/; 
+expires=Thu, 04 Jun 2020 21:43:19 GMT, 
+
+_shopify_s=33e9b2ba-90B7-4639-7D99-C90A839BC2BF; 
+path=/; 
+expires=Thu, 21 May 2020 22:13:19 GMT, 
+
+secure_customer_sig=; 
+path=/; 
+expires=Mon, 21 May 2040 21:43:19 GMT; 
+secure; 
+HttpOnly, 
+
+cart_ts=1590097399; 
+path=/; 
+expires=Thu, 04 Jun 2020 21:43:19 GMT; 
+HttpOnly, 
+
+cart_sig=79e331304d0bfca5f28975cdd6434e88; 
+path=/; 
+expires=Thu, 04 Jun 2020 21:43:19 GMT; HttpOnly
+
+
+  
