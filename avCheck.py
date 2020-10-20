@@ -3,14 +3,14 @@ import requests
 import json
 
 
-def availability_check(product_name):
-    r = requests.get('https://figpin.com/products.json?limit=250')
+'''def availability_check(product_name):
+    r = requests.get('https://funko.com/products.json')
     products = json.loads(r.text)['products']
 
-    '''with open(f'jsons/products.json', 'w') as filehandle:
+    with open(f'jsons/products.json', 'w') as filehandle:
         json.dump(products, filehandle, indent=2)
-        print('\nSaved cart cookies to jsons/cookies.json')
-    filehandle.close()'''
+        print('\nSaved products json to jsons/products.json')
+    filehandle.close()
 
     for product in products:
         print("title: ", product['title'])
@@ -27,5 +27,13 @@ def availability_check(product_name):
     return False
 
 
-print(availability_check())
+print(availability_check())'''
 
+r = requests.get('https://funko.com/products.json')
+print(r.status_code)
+print(r.text)
+
+'''with open(f'jsons/products.json', 'w') as filehandle:
+    json.dump(products, filehandle, indent=2)
+    print('\nSaved products json to jsons/products.json')
+filehandle.close()'''
